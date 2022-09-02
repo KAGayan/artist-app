@@ -83,32 +83,981 @@ exports[`renders AlbumInfo 1`] = `
               <div
                 class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1ri6ub7-MuiPaper-root-MuiCard-root"
               >
-                <span
-                  class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave css-1slz293-MuiSkeleton-root"
-                  style="width: 250px; height: 250px;"
+                <img
+                  alt="Curtain Call 2"
+                  class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+                  src="https://lastfm.freetls.fastly.net/i/u/300x300/86afe17187d732cb9e92779d7d3538dd.jpg"
+                  width="250"
                 />
               </div>
             </div>
             <div
               class="MuiGrid-root MuiGrid-item css-r4jj1p-MuiGrid-root"
             >
+              <h5
+                class="MuiTypography-root MuiTypography-h5 css-1nmfuwu-MuiTypography-root"
+              >
+                Curtain Call 2
+              </h5>
               <span
-                class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-wave css-1dk1h2u-MuiSkeleton-root"
-                style="height: 40px;"
-              />
-              <span
-                class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-wave css-1dk1h2u-MuiSkeleton-root"
-                style="width: 100px; height: 20px;"
-              />
+                class="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+              >
+                Eminem
+              </span>
             </div>
           </div>
           <div
             class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
           >
-            <span
-              class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-wave css-1dk1h2u-MuiSkeleton-root"
-              style="width: 200px; height: 60px;"
-            />
+            <ul
+              class="MuiList-root MuiList-padding css-1ccm1cv-MuiList-root"
+            >
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    1
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Godzilla [feat. Juice WRLD]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    2
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Lucky You [feat. Joyner Lucas]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    3
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Lighters [feat. Bruno Mars]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    4
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    GNAT
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    5
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Cinderella Man
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    6
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Walk On Water [feat. Beyoncé]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    7
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Rap God
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    8
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Love The Way You Lie [feat. Rihanna]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    9
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Won't Back Down [feat. P!nk]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    10
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Higher
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    11
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Berzerk
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    12
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Not Afraid
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    13
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    From The D 2 The LBC
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    14
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Nowhere Fast [feat. Kehlani]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    15
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Fall
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    16
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Phenomenal
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    17
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Fast Lane
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    18
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    You’re Never Over
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    19
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    3 A.M.
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    20
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Space Bound
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    21
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Beautiful
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    22
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    The Monster [feat. Rihanna]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    23
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Venom (Music From the Motion Picture)
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    24
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Crack A Bottle [feat. Dr. Dre & 50 Cent]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    25
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Is This Love ('09)
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    26
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    River [feat. Ed Sheeran]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    27
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Survival
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    28
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Best Friend [feat. Eminem]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    29
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Darkness
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    30
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Kings Never Die [feat. Gwen Stefani]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    31
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    No Love [feat. Lil Wayne]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    32
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Headlights [feat. Nate Ruess]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    33
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    The King and I (From the Original Motion Picture Soundtrack ELVIS) [feat. CeeLo Green]
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    34
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Farewell
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+              <div
+                class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button css-bshv44-MuiButtonBase-root-MuiListItem-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-11clnfx-MuiChip-root"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                  >
+                    35
+                  </span>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+                  >
+                    Rap God (Mr. Cii Remix)
+                  </span>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+              />
+            </ul>
           </div>
         </div>
       </div>
