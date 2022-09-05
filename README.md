@@ -1,4 +1,4 @@
-# Live demo: [here](https://main.d3d574vhc5l97w.amplifyapp.com)
+# Live demo: [AWS](https://main.d3d574vhc5l97w.amplifyapp.com) [Firebase](https://artist-app-49382.web.app/)
 
 # Getting Started with Create React App
 
